@@ -1,6 +1,7 @@
-Bnaff, Blue mountain 
+Bnaff, Blue mountain , Scramento 
 
 
 
-Calgary  Leithbridge Red deer
+
+Calgary  Leithbridge Red deer,Hudson,Cote Luc
 
